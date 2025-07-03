@@ -112,7 +112,7 @@ main {
     gap: 1rem;
     text-align: center;
     overflow-y: auto;
-    max-height: 400px;
+    max-height: 700px;
 }
 
 .link-item {
